@@ -61,26 +61,6 @@
 
 ---
 
-### 🚀 Notable Projects
-
-- 🛡️ **Real-time Women's Safety Platform**  
-  AI-powered location-based threat detection system for public safety.
-
-- 🚦 **Smart Traffic Management System**  
-  Dynamic signal control using real-time traffic density analysis.
-
-- 📸 **OCR Number Plate Detection**  
-  Automatic recognition of license plates using OpenCV + Tesseract.
-
----
-### 🚀 Projects That Define Me
-
-| Project | Description |
-|--------|-------------|
-| 🔐 **Women's Safety Alert System** | Real-time threat detection with AI, location-aware alerts, and instant contact with authorities |
-| 🛣️ **Smart Traffic Management** | AI-based traffic light optimization for reducing congestion in urban roads |
-| 🔍 **Automatic Number Plate Recognition (ANPR)** | OCR + CV project for real-time license plate detection and data storage |
-| 🧠 **Sentiment Analyzer** | NLP project built during internship to analyze customer feedback for e-commerce |
 
 ➡️ Check out more at [github.com/ShanmukhaKommuri](https://github.com/ShanmukhaKommuri)
 
