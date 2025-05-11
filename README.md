@@ -62,7 +62,7 @@
 ---
 
 
-➡️ Check out more at [github.com/ShanmukhaKommuri](https://github.com/ShanmukhaKommuri)
+<!---➡️ Check out more at [github.com/ShanmukhaKommuri](https://github.com/ShanmukhaKommuri)-->
 
 
 ### 📫 Let's Connect
