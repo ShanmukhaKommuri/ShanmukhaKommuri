@@ -1,6 +1,6 @@
 <!-- HERO -->
 <h1 align="center">Hi there 👋, I'm Shanmukha Srinivas Kommuri</h1>
-<h3 align="center">🚀 AI Developer | Final-Year CSE Student | Python • Java • Web Dev • Data Science</h3>
+<h3 align="center"> AI Developer | Final-Year CSE Student | Python • Java • Web Dev • Data Science</h3>
 
 <p align="center">
   <!-- Profile Views with Eye Icon -->
